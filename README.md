@@ -1,1 +1,1 @@
-# https-github.com-truonguit2010-learning-springboot-RESTFull
+https://spring.io/guides/gs/rest-service/
